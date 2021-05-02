@@ -11,7 +11,8 @@ public class ArrayListEx {
 		
 		al.add("Raj1");
 		al.add("Raj2");
-		
+		al.add("Raj4");
+		al.add("Raj5");
 		System.out.println(al);
 		al.add(0, "Raj3");
 		System.out.println(al);
